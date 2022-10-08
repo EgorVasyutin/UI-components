@@ -59,6 +59,7 @@ const updateValue = (e) => {
 </script>
 
 <style lang="scss" scoped>
+@import "src/assets/styles/global.scss";
 .form {
   &-input {
     margin-bottom: 30px;

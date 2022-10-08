@@ -58,6 +58,7 @@ const clickOnButton = () => {
 </script>
 
 <style scoped lang="scss">
+@import "src/assets/styles/global.scss";
 .btn {
   margin-right: 10px;
   margin-bottom: 10px;
